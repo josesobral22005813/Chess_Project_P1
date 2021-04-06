@@ -1,5 +1,5 @@
 # Chess Project P1: Overview
-* This is a simple program writen in Kotlin that simulates a chess board.
+* This is a simple program writen in Kotlin that builds a chess board.
 
 * The program builds a simple menu.
 
